@@ -2,7 +2,10 @@
 A Repository of Space Station 14 sprite textures by and/or modified by oBanditx 
 All of the sprite textures featured here are available for use in any forks.
 
-Copyright Information is listed in the description of the files
+Copyright information is listed in the description of the files
+
+
+
 Format as follows;
 
 
